@@ -28,7 +28,7 @@ A modern cyberpunk personal portfolio developed with **Astro** and **Tailwind CS
 /
 ├── public/
 │   ├── images/              # Static images
-│   └── favicon.svg
+│   └── favicon.ico
 ├── src/
 │   ├── components/
 │   │   ├── ProjectCard.astro       # Project card with modal
