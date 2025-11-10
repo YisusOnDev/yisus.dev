@@ -1,9 +1,17 @@
 name = "yisus-dev"
 compatibility_date = "2024-11-10"
 compatibility_flags = ["nodejs_compat"]
+main = "dist/_worker.js"
 
 [build]
 command = "pnpm run build"
 
 [build.upload]
 format = "modules"
+
+[assets]
+directory = "./dist"
+
+[[kv_namespaces]]
+binding = "SESSION"
+id = "your-kv-namespace-id"  # Reemplaza con tu ID real de KV namespace
