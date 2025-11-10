@@ -1,0 +1,38 @@
+[
+{
+        "title": {
+            "es": "Desarrollador Freelance / Creador de Contenido",
+            "en": "Freelance Developer / Content Creator"
+        },
+        "period": "2019 - Presente",
+        "description": {
+            "es": "Desarrollo para la comunidad de streamers, creando herramientas y soluciones innovadoras.",
+            "en": "Development for the streamer community, creating tools and innovative solutions."
+        },
+        "position": "right"
+    },
+    {
+        "title": {
+            "es": "Desarrollador Salesforce",
+            "en": "Salesforce Developer"
+        },
+        "period": "2021 - Presente",
+        "description": {
+            "es": "Desarrollador a tiempo completo en Freepik, trabajando principalmente en la plataforma Salesforce para optimizar procesos internos.",
+            "en": "Full-time developer at Freepik, primarily working on the Salesforce platform to optimize internal processes."
+        },
+        "position": "left"
+    },
+    {
+        "title": {
+            "es": "Técnico Informático",
+            "en": "IT Technician"
+        },
+        "period": "2020 - 2020",
+        "description": {
+            "es": "Mantenimiento y reparación de todo tipo de aparatos electrónicos. Prestación de soporte por teléfono.",
+            "en": "Maintenance and repair of all kinds of electronic devices. Providing support over the phone."
+        },
+        "position": "right"
+    }
+]

@@ -1,0 +1,38 @@
+---
+// Detect browser language and redirect accordingly
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YisusTM_01 - Developer & Content Creator</title>
+  </head>
+  <body>
+    <div id="loading" class="min-h-screen flex items-center justify-center bg-black">
+      <div class="text-center">
+        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-cyan-400 mx-auto mb-4"></div>
+        <p class="text-cyan-400">Cargando...</p>
+      </div>
+    </div>
+
+    <script>
+      // Detect browser language and redirect
+      function detectLanguage() {
+        const languages = navigator.languages || [navigator.language];
+        const preferredLanguage = languages[0]?.toLowerCase();
+
+        // Check if user prefers English
+        if (preferredLanguage?.startsWith('en')) {
+          window.location.href = '/en';
+        } else {
+          // Default to Spanish for all other languages
+          window.location.href = '/es';
+        }
+      }
+
+      // Redirect immediately
+      detectLanguage();
+    </script>
+  </body>
+</html>

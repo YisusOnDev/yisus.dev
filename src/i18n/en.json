@@ -1,0 +1,65 @@
+{
+    "nav": {
+        "home": "Home",
+        "social": "Social",
+        "projects": "Projects",
+        "experience": "Experience",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "YisusTM_01",
+        "subtitle": "Developer & Content Creator",
+        "description": "Creating digital experiences for the streamer community. Where code meets entertainment.",
+        "cta": "Explore Portfolio"
+    },
+    "social": {
+        "title": "Connect With Me",
+        "subtitle": "Follow me on my favorite platforms",
+        "links": {
+            "github": {
+                "name": "GitHub",
+                "description": "Open source repositories and projects"
+            },
+            "twitch": {
+                "name": "Twitch",
+                "description": "Live coding and gaming sessions"
+            },
+            "twitter": {
+                "name": "X / Twitter",
+                "description": "Tech thoughts and updates"
+            },
+            "instagram": {
+                "name": "Instagram",
+                "description": "Behind the scenes of development"
+            },
+            "discord": {
+                "name": "Discord Community",
+                "description": "Community and official store"
+            }
+        }
+    },
+    "projects": {
+        "title": "Projects for Streamers",
+        "subtitle": "Innovative solutions for the creator community",
+        "date": "Date",
+        "categories": {
+            "General": "General",
+            "Roleplay": "Roleplay",
+            "Others": "Others"
+        }
+    },
+    "experience": {
+        "title": "Experience",
+        "subtitle": "My journey in development and streaming",
+        "skills": "Technology Stack"
+    },
+    "contact": {
+        "title": "Let's Collaborate",
+        "subtitle": "Do you have an interesting project? Need tools for your stream? Let's talk and create something amazing together.",
+        "email": "contact@yisus.dev",
+        "response_time": "Response time: 24-48 hours"
+    },
+    "footer": {
+        "copyright": "© 2025 • Built with ❤️ and some lines of code { ... }"
+    }
+}

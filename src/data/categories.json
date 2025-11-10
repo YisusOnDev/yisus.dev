@@ -1,0 +1,26 @@
+[
+    {
+        "id": "general",
+        "name": {
+            "es": "General",
+            "en": "General"
+        },
+        "default": true
+    },
+    {
+        "id": "rp",
+        "name": {
+            "es": "Roleplay",
+            "en": "Roleplay"
+        },
+        "default": false
+    },
+    {
+        "id": "others",
+        "name": {
+            "es": "Otros",
+            "en": "Others"
+        },
+        "default": false
+    }
+]

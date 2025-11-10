@@ -1,0 +1,65 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "social": "Social",
+        "projects": "Proyectos",
+        "experience": "Experiencia",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "title": "YisusTM_01",
+        "subtitle": "Developer & Content Creator",
+        "description": "Creando experiencias digitales para la comunidad de streamers. Donde el código se encuentra con el entretenimiento.",
+        "cta": "Explorar Portfolio"
+    },
+    "social": {
+        "title": "Conecta Conmigo",
+        "subtitle": "Sígueme en mis plataformas favoritas",
+        "links": {
+            "github": {
+                "name": "GitHub",
+                "description": "Repositorios y proyectos open source"
+            },
+            "twitch": {
+                "name": "Twitch",
+                "description": "Live coding y gaming sessions"
+            },
+            "twitter": {
+                "name": "X / Twitter",
+                "description": "Pensamientos tech y updates"
+            },
+            "instagram": {
+                "name": "Instagram",
+                "description": "Behind the scenes del desarrollo"
+            },
+            "discord": {
+                "name": "Discord Community",
+                "description": "Comunidad y tienda oficial"
+            }
+        }
+    },
+    "projects": {
+        "title": "Proyectos para Streamers",
+        "subtitle": "Soluciones innovadoras para la comunidad de creadores",
+        "date": "Fecha",
+        "categories": {
+            "General": "General",
+            "Roleplay": "Roleplay",
+            "Others": "Otros"
+        }
+    },
+    "experience": {
+        "title": "Experiencia",
+        "subtitle": "Mi trayectoria en el desarrollo y streaming",
+        "skills": "Stack Tecnológico"
+    },
+    "contact": {
+        "title": "Colaboremos",
+        "subtitle": "Tienes un proyecto interesante? Necesitas herramientas para tu stream? Hablemos y creemos algo increíble juntos.",
+        "email": "contact@yisus.dev",
+        "response_time": "Tiempo de respuesta: 24-48 horas"
+    },
+    "footer": {
+        "copyright": "© 2025 • Desarrollado con ❤️ y algunas líneas de código { ... }"
+    }
+}

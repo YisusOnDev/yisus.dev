@@ -1,0 +1,241 @@
+[
+    {
+        "title": {
+            "es": "DayZ 151",
+            "en": "DayZ 151"
+        },
+        "description": {
+            "es": "Evento de Alainbosss junto a TwitchES con +100 streamers en 3 días de perma-death, mods y battle royale final. Tensión peliculera, alianzas traicioneras y victoria histórica de YermanDayZ en streams llenos de locura.",
+            "en": "Event by Alainbosss along with TwitchES featuring +100 streamers in 3 days of permadeath, mods, and a final battle royale. Cinematic tension, treacherous alliances, and historic victory by YermanDayZ in streams full of madness."
+        },
+        "tech": [
+            "SteamCMD",
+            "RCON",
+            "Twitch API",
+            "Discord API",
+            "Enforce Script"
+        ],
+        "image": "dayz151.jpeg",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2025-10-12",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "Tarde Old School 2",
+            "en": "Tarde Old School 2"
+        },
+        "description": {
+            "es": "Secuela épica organizada por Illojuan en octubre 2023, con 36 leyendas como Xokas, Grefg, Willyrex, Vegetta y sTaXx. Nostalgia brutal en torneo de Call Of Duty: Black Ops 2, +152k viewers pico, risas y MVP/ganadores legendarios que rompieron Twitch.",
+            "en": "Epic tournament organized by Illojuan in October 2023, featuring 36 legends like Xokas, Grefg, Willyrex, Vegetta, and sTaXx. Brutal nostalgia in a Call Of Duty: Black Ops 2 tournament, +152k peak viewers, laughs, and legendary MVP/winners that broke Twitch."
+        },
+        "tech": [
+            "GSC (Game Scripting)",
+            "RCON",
+            "React",
+            "Tailwind CSS",
+            "Discord API"
+        ],
+        "image": "tos2.jpg",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2023-10",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "Tarde Old School",
+            "en": "Tarde Old School"
+        },
+        "description": {
+            "es": "Torneo épico organizado por Illojuan, reuniendo leyendas como Ibai, Rubius, Willyrex, TheGrefg, aLexBY y sTaXx en Call of Duty Modern Warfare 3. Rompió Twitch con +420k viewers pico, victoria de equipo aLexBY (MVP) y nostalgia old school que revivió el juego 11 años después.",
+            "en": "Epic tournament organized by Illojuan, bringing together legends like Ibai, Rubius, Willyrex, TheGrefg, aLexBY, and sTaXx in Call of Duty Modern Warfare 3. It broke Twitch with +420k peak viewers, victory for team aLexBY (MVP), and old-school nostalgia that revived the game 11 years later."
+        },
+        "tech": [
+            "GSC (Game Scripting)",
+            "RCON",
+            "JavaScript",
+            "CSS"
+        ],
+        "image": "tos1.jpg",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2022-03",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "14 Días",
+            "en": "14 Days"
+        },
+        "description": {
+            "es": "Evento hardcore de supervivencia en DayZ organizado por Illojuan en julio 2021 con +15 streamers top hispanos como Rubius, Xokas y Alexby. Permadeath, loot, traiciones y rescate final tras 14-15 días intensos; rompió Twitch con momentos épicos.",
+            "en": "Hardcore survival event in DayZ organized by Illojuan in July 2021 with +15 top Hispanic streamers like Rubius, Xokas, and Alexby. Permadeath, loot, betrayals, and a final rescue after 14-15 intense days; it broke Twitch with epic moments."
+        },
+        "tech": [
+            "SteamCMD",
+            "RCON",
+            "Enforce Script"
+        ],
+        "image": "14dias.jpg",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2021-07",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "Egoland",
+            "en": "Egoland"
+        },
+        "description": {
+            "es": "Dos ediciones épicas de supervivencia en servidor personalizado del videojuego Rust con +70 streamers hispanos como Rubius, Ibai, Auron e IlloJuan. Egoland 1 (2021): Inicio legendario con risas, traiciones y 280M views; Egoland 2 (2022): Más acción, skins drops y raids intensos.",
+            "en": "Two epic survival editions on a custom Rust game server with +70 Hispanic streamers like Rubius, Ibai, Auron, and IlloJuan. Egoland 1 (2021): Legendary start with laughs, betrayals, and 280M views; Egoland 2 (2022): More action, skin drops, and intense raids."
+        },
+        "tech": [
+            "C#",
+            "SteamCMD",
+            "RCON",
+            "Discord API"
+        ],
+        "image": "egoland.jpg",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2021 / 2022",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "Marbella Vice",
+            "en": "Marbella Vice"
+        },
+        "description": {
+            "es": "Primera versión del servidor icónico de roleplay en FiveM GTA V, desarrollado junto a molecorpclub y bLKrp. +100 streamers como Ibai, Auron e Illojuan. RP inmersivo basado en Marbella con eventos épicos; rompió Twitch con streams masivos y clips virales.",
+            "en": "First version of the iconic roleplay server on FiveM GTA V, developed alongside molecorpclub and bLKrp. +100 streamers like Ibai, Auron, and Illojuan. Immersive RP based on Marbella with epic events; it broke Twitch with massive streams and viral clips."
+        },
+        "tech": [
+            "LUA",
+            "JavaScript",
+            "Vue.js",
+            "CSS",
+            "MySQL",
+            "Discord API"
+        ],
+        "image": "marbellavice.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2021",
+        "category": "general"
+    },
+    {
+        "title": {
+            "es": "Grupo Oasis",
+            "en": "Group Oasis"
+        },
+        "description": {
+            "es": "Proyecto de servidores de roleplay en FiveM y RedM junto a bLKrp, con whitelist. Enfocado en RP inmersivo, atrayendo streamers hispanos desde 2023.",
+            "en": "Roleplay server project on FiveM and RedM alongside bLKrp, with whitelist. Focused on immersive RP, attracting Hispanic streamers since 2023."
+        },
+        "tech": [
+            "LUA",
+            "TypeScript",
+            "React",
+            "Vue.js",
+            "Tailwind CSS",
+            "MySQL",
+            "Discord API"
+        ],
+        "image": "groupoasis.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2023 - 2025",
+        "category": "rp"
+    },
+    {
+        "title": {
+            "es": "London Eye RP",
+            "en": "London Eye RP"
+        },
+        "description": {
+            "es": "Serie de roleplay en FiveM GTA V, sucesor espiritual de Marbella Vice, liderado por CooLifeGame (Jacky) y auronplay. Atrajo +100 streamers hispanos en 2022 con RP inmersivo en Londres, streams épicos y momentos virales.",
+            "en": "Roleplay series on FiveM GTA V, spiritual successor to Marbella Vice, led by CooLifeGame (Jacky) and auronplay. Attracted +100 Hispanic streamers in 2022 with immersive RP in London, epic streams, and viral moments."
+        },
+        "tech": [
+            "LUA",
+            "TypeScript",
+            "Vue.js",
+            "Tailwind CSS",
+            "MySQL",
+            "Discord API"
+        ],
+        "image": "londoneye.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2022",
+        "category": "rp"
+    },
+    {
+        "title": {
+            "es": "Overlife RP",
+            "en": "Overlife RP"
+        },
+        "description": {
+            "es": "Servidor de roleplay en FiveM GTA V, creado junto a bLKrp y molecorpclub como alternativa fresca al RP hispano en 2021. Whitelist y RP inmersivo, cerró en julio 2022 tras épicos momentos y miles de jugadores.",
+            "en": "Roleplay server on FiveM GTA V, created alongside bLKrp and molecorpclub as a fresh alternative to Hispanic RP in 2021. Whitelist and immersive RP, it closed in July 2022 after epic moments and thousands of players."
+        },
+        "tech": [
+            "LUA",
+            "JavaScript",
+            "CSS",
+            "MySQL"
+        ],
+        "image": "overlife.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2021 - 2022",
+        "category": "rp"
+    },
+    {
+        "title": {
+            "es": "Oasis RP",
+            "en": "Oasis RP"
+        },
+        "description": {
+            "es": "Servidor pionero de roleplay en FiveM GTA V, lanzado en 2020 como proyecto comunitario semi-serio con énfasis en inmersión y economía realista. Desarrollado junto a bLKrp y molecorpclub. Fue referencia en RP hispano hasta su cierre en 2021.",
+            "en": "Groundbreaking roleplay server on FiveM GTA V, launched in 2020 as a semi-serious community project with emphasis on immersion and realistic economy. Developed alongside bLKrp and molecorpclub. It was a reference in Hispanic RP until its closure in 2021."
+        },
+        "tech": [
+            "LUA",
+            "JavaScript",
+            "CSS",
+            "MySQL"
+        ],
+        "image": "oasisrp.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2020 - 2021",
+        "category": "rp"
+    },
+    {
+        "title": {
+            "es": "Forasteros RP",
+            "en": "Forasteros RP"
+        },
+        "description": {
+            "es": "Servidor pionero de roleplay en FiveM GTA V (+18, whitelist), desarrollado junto a molecorpclub y bLKrp en 2020 como proyecto semi-serio e inmersivo, alcanzó picos de +100 jugadores simultáneos con streams épicos y mods personalizados. Precursor de OasisRP, cerró prematuramente en 2021, dejando legado en RP español muchos momentos virales.",
+            "en": "Groundbreaking roleplay server on FiveM GTA V (+18, whitelist), developed alongside molecorpclub and bLKrp in 2020 as a semi-serious and immersive project, it reached peaks of +100 simultaneous players with epic streams and custom mods. Precursor to OasisRP, it closed prematurely in 2021, leaving a legacy in Spanish RP with many viral moments."
+        },
+        "tech": [
+            "LUA",
+            "JavaScript",
+            "CSS",
+            "MySQL"
+        ],
+        "image": "forasterosrp.png",
+        "liveUrl": null,
+        "githubUrl": null,
+        "date": "2019 - 2022",
+        "category": "rp"
+    }
+]
