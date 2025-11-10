@@ -123,4 +123,4 @@ This project is under the MIT License.
 
 Developed by **YisusTM_01**
 
-[GitHub](https://github.com/YisusOnDev) • [Twitch](https://twitch.tv/YisusTM_01) • [Twitter](https://x.com/YisusTM_01) • [Instagram](https://instagram.com/YisusTM_01)
+[GitHub](https://github.com/YisusOnDev) • [Twitch](https://twitch.tv/YisusTM_01) • [Twitter](https://x.com/YisusTM_01)
